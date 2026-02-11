@@ -7,4 +7,5 @@ A pull request (PR for short) is a mechanism for contributing code to a remote r
 # Credits
 [Git-Mastery](https://git-mastery.org/lessons/trail/workingWithPrs/)
 
+No Copyright
 Copyright 2026
